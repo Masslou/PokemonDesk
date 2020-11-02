@@ -124,9 +124,6 @@ const MyHometask: HomeTaskInterface = {
 
 
 // Generics
-// function identity<T>(value: T): T {
-//     return value;
-// }
 
 
 interface MyArray<T> {
